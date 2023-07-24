@@ -60,15 +60,12 @@
 
 - [07-Storage-in-Linux](docs/08-Storage-in-Linux)
 
-  - [01-Where's-my-Storage](docs/08-Storage-in-Linux/01-Where's-my-Storage.md)
-  - [02-Storage-Basics](docs/08-Storage-in-Linux/02-Storage-Basics.md)
-  - [03-File-System-in-Linux](docs/08-Storage-in-Linux/03-File-System-in-Linux.md)
-  - [04-DAS-NAS-and-SAN](docs/08-Storage-in-Linux/04-DAS-NAS-and-SAN.md)
-  - [05-LVM](docs/08-Storage-in-Linux/05-LVM.md)
-  - [06-Project-Status-Meeting](docs/08-Storage-in-Linux/06-Project-Status-Meeting.md)
+  - [01-Storage-Basics](docs/08-Storage-in-Linux/02-Storage-Basics.md)
+  - [02-File-System-in-Linux](docs/08-Storage-in-Linux/03-File-System-in-Linux.md)
+  - [03-DAS-NAS-and-SAN](docs/08-Storage-in-Linux/04-DAS-NAS-and-SAN.md)
+  - [04-LVM](docs/08-Storage-in-Linux/05-LVM.md)
 
 - [08-Service-management-with-SYSTEMD](docs/09-Service-management-with-SYSTEMD)
 
-  - [01-Working-Overtime-Story](docs/09-Service-management-with-SYSTEMD/01-Working-Overtime-Story.md)
-  - [02-Creating-a-SYSTEMD-Service](docs/09-Service-management-with-SYSTEMD/02-Creating-a-SYSTEMD-Service.md)
-  - [03-SYSTEMD-Tools](docs/09-Service-management-with-SYSTEMD/03-SYSTEMD-Tools.md)
+  - [01-Creating-a-SYSTEMD-Service](docs/09-Service-management-with-SYSTEMD/02-Creating-a-SYSTEMD-Service.md)
+  - [02-SYSTEMD-Tools](docs/09-Service-management-with-SYSTEMD/03-SYSTEMD-Tools.md)
