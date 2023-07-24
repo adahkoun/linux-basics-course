@@ -1,7 +1,5 @@
 # Lab - VI Editor
 
-- Access Hands-On Labs here [Hands-On Labs](https://kodekloud.com/topic/lab-vi-editor-3/)
-
 Go to **`insert mode`**
 ```
 Press i
