@@ -1,7 +1,5 @@
 # The Linux Basics Course
 
-These are notes from the [Linux Basics Course](https://bit.ly/3gGnxm0) hosted on KodeKloud.
-
 # Table of Contents
 
 - [01-Introduction](docs/01-Introduction)
