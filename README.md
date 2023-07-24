@@ -13,15 +13,14 @@
   
 - [02-Linux-Core-Concepts](docs/03-Linux-Core-Concepts)
 
-  - [01-Bobs-First-Team-Meeting](docs/03-Linux-Core-Concepts/01-Bobs-first-team-meeting.md)
-  - [02-The-Linux-Kernel](docs/03-Linux-Core-Concepts/02-The-Linux-Kernel.md)
-  - [03-Working-With-Hardware](docs/03-Linux-Core-Concepts/03-Working-with-hardware.md)
-  - [04-Lab-Linux-Kernel](docs/03-Linux-Core-Concepts/04-Lab-Linux-Kernel.md)
-  - [05-Linux-Boot-Sequence](docs/03-Linux-Core-Concepts/05-Linux-Boot-Sequence.md)
-  - [06-Run-Levels](docs/03-Linux-Core-Concepts/06-Run-Levels.md)
-  - [07-File-Types](docs/03-Linux-Core-Concepts/07-File-Types.md)
-  - [08-Filesystem-Hierarchy](docs/03-Linux-Core-Concepts/08-Filesystem-Hierarchy.md)
-  - [09-Lab-Linux-RunLevels-Filesystem-Hierarchy](docs/03-Linux-Core-Concepts/09-Lab-Linux-RunLevels-Filesystem-Hierarchy.md)
+  - [01-The-Linux-Kernel](docs/03-Linux-Core-Concepts/02-The-Linux-Kernel.md)
+  - [02-Working-With-Hardware](docs/03-Linux-Core-Concepts/03-Working-with-hardware.md)
+  - [03-Lab-Linux-Kernel](docs/03-Linux-Core-Concepts/04-Lab-Linux-Kernel.md)
+  - [04-Linux-Boot-Sequence](docs/03-Linux-Core-Concepts/05-Linux-Boot-Sequence.md)
+  - [05-Run-Levels](docs/03-Linux-Core-Concepts/06-Run-Levels.md)
+  - [06-File-Types](docs/03-Linux-Core-Concepts/07-File-Types.md)
+  - [07-Filesystem-Hierarchy](docs/03-Linux-Core-Concepts/08-Filesystem-Hierarchy.md)
+  - [08-Lab-Linux-RunLevels-Filesystem-Hierarchy](docs/03-Linux-Core-Concepts/09-Lab-Linux-RunLevels-Filesystem-Hierarchy.md)
 
 
 - [03-Package-Mangement](docs/04-Package-Mangement)
@@ -36,31 +35,28 @@
 
 - [04-Working-With-Shell-Part-II](docs/05-Working-With-Shell-Part-II)
 
-  - [01-Behind-Schedule(story)](docs/05-Working-With-Shell-Part-II/01-Behind-Schedule(story).md)
-  - [02-File-Compression-and-Archival](docs/05-Working-With-Shell-Part-II/02-File-Compression-and-Archival.md)
-  - [03-Searching-For-Files-and-Patterns](docs/05-Working-With-Shell-Part-II/03-Searching-for-files-and-patterns.md)
-  - [04-IO-Redirection](docs/05-Working-With-Shell-Part-II/04-IO-Redirection.md)
-  - [05-Lab-Working-With-Shell-Part-II](docs/05-Working-With-Shell-Part-II/05-Lab-Working-With-Shell-Part-II.md)
-  - [06-Vi-Editor](docs/05-Working-With-Shell-Part-II/06-Vi-Editor.md)
-  - [07-Lab-VI-Editor](docs/05-Working-With-Shell-Part-II/07-Lab-VI-Editor.md)
+  - [01-File-Compression-and-Archival](docs/05-Working-With-Shell-Part-II/02-File-Compression-and-Archival.md)
+  - [02-Searching-For-Files-and-Patterns](docs/05-Working-With-Shell-Part-II/03-Searching-for-files-and-patterns.md)
+  - [03-IO-Redirection](docs/05-Working-With-Shell-Part-II/04-IO-Redirection.md)
+  - [04-Lab-Working-With-Shell-Part-II](docs/05-Working-With-Shell-Part-II/05-Lab-Working-With-Shell-Part-II.md)
+  - [05-Vi-Editor](docs/05-Working-With-Shell-Part-II/06-Vi-Editor.md)
+  - [06-Lab-VI-Editor](docs/05-Working-With-Shell-Part-II/07-Lab-VI-Editor.md)
 
 - [05-Security-and-File-Permissions](docs/06-Security-and-File-Permissions)
 
-  - [01-The-Security-Incident(story)](docs/06-Security-and-File-Permissions/01-The-Security-Incident(story).md)
-  - [02-Linux-Accounts](docs/06-Security-and-File-Permissions/02-Linux-Accounts.md)
-  - [03-User-Management](docs/06-Security-and-File-Permissions/03-User-Management.md)
-  - [04-Access-Control-Files](docs/06-Security-and-File-Permissions/04-Access-Control-Files.md)
-  - [05-File-Permissions](docs/06-Security-and-File-Permissions/05-File-Permissions.md)
-  - [06-SSH-and-SCP](docs/06-Security-and-File-Permissions/06-SSH-and-SCP.md)
-  - [07-IPtables](docs/06-Security-and-File-Permissions/07-IPtables.md)
-  - [08-Cronjob](docs/06-Security-and-File-Permissions/08-Cronjob.md)
+  - [01-Linux-Accounts](docs/06-Security-and-File-Permissions/02-Linux-Accounts.md)
+  - [02-User-Management](docs/06-Security-and-File-Permissions/03-User-Management.md)
+  - [03-Access-Control-Files](docs/06-Security-and-File-Permissions/04-Access-Control-Files.md)
+  - [04-File-Permissions](docs/06-Security-and-File-Permissions/05-File-Permissions.md)
+  - [05-SSH-and-SCP](docs/06-Security-and-File-Permissions/06-SSH-and-SCP.md)
+  - [06-IPtables](docs/06-Security-and-File-Permissions/07-IPtables.md)
+  - [07-Cronjob](docs/06-Security-and-File-Permissions/08-Cronjob.md)
 
 - [06-Networking](docs/07-Networking)
 
-  - [01-The-Network-Issue(story)](docs/07-Networking/01-The-Network-Issue(story).md)
-  - [02-DNS](docs/07-Networking/02-DNS.md)
-  - [03-Networking-Basics](docs/07-Networking/03-Networking-Basics.md)
-  - [04-Troubleshooting](docs/07-Networking/04-Troubleshooting.md)
+  - [01-DNS](docs/07-Networking/02-DNS.md)
+  - [02-Networking-Basics](docs/07-Networking/03-Networking-Basics.md)
+  - [03-Troubleshooting](docs/07-Networking/04-Troubleshooting.md)
 
 - [07-Storage-in-Linux](docs/08-Storage-in-Linux)
 
