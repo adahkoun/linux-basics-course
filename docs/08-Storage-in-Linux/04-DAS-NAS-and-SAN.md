@@ -1,6 +1,5 @@
 # DAS NAS AND SAN
 
-  - Take me to the [Tutorial](https://kodekloud.com/topic/das-nas-and-san/)
 
   - Now that you are familiar with basic of storage in Linux lets learn about external storage.
 
