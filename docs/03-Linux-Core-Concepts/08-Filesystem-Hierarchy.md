@@ -1,7 +1,5 @@
 # Filesystem Hierarchy
 
-- Take me to the [Video Tutorial](https://kodekloud.com/topic/filesystem-hierarchy/)
-
 In this section, lets take a look at the **`filesystem hierarchy`**
 - Linux uses  single rooted, inverted tree like file system
   - **`/home`**  : It is the location that contains the home directories for all users, except the **`root`** user (root user home directory is located at **`/root`**)
